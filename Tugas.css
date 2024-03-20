@@ -1,0 +1,73 @@
+.judul {
+  text-align: center;
+}
+
+.judul  {
+  margin-top: 50px;
+}
+
+.judul .nama {
+  margin-top: 5px;
+}
+
+.judul h1 {
+  font-size: 40px;
+  font-weight: 700;
+}
+
+.daftar-isi {
+  margin-left: 300px;
+}
+
+.daftar {
+  margin: 50px 30px;
+  
+}
+
+h3,h2 {
+  font-weight: 600;
+}
+
+h3 {
+  margin-bottom: 15px;
+}
+.bagian1 {
+  margin: 0 30px;
+}
+
+.bagian {
+  margin-bottom: 20px;
+}
+
+.paragraf1 {
+  width : 640px;
+}
+
+.paragraf2 {
+  width: 640px;
+}
+
+.paragraf3 {
+  width: 640px;
+}
+
+.judul2 {
+  padding-top: 10px;
+}
+
+.judul2 h2 {
+  font-weight: 600px;
+}
+
+span {
+  font-weight: 500;
+  font-size: 40px;
+}
+
+body {
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.lyons {
+  font-size: 12px;
+}

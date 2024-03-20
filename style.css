@@ -1,0 +1,27 @@
+<style>
+p{
+color: red;
+font-size: 12px;
+text-decoration: underline;
+}
+</style>
+
+/* *{
+    font-size: 12px;
+    color: blue;
+    text-decoration: underline;
+    text-align: center;
+    } */
+
+    .alert-succes
+
+    [title]{
+        color:blue;
+        font-weight: bold;
+    }
+
+    h1, h4, aler-danger{
+        color: greenyellow;
+    }
+
+    
